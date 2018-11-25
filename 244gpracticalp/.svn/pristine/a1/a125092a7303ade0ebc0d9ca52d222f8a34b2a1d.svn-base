@@ -1,0 +1,7 @@
+a = 10;
+b = 20;
+c = 30;
+uno = 1;
+cero = 0;
+a = a + b + c + d + f;
+b = uno * cero + uno S + R;

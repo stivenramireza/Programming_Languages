@@ -1,0 +1,4 @@
+# Write Result
+ first := M[sp + 0]
+ sp := sp - one
+ writeInt(first)

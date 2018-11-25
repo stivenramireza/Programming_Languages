@@ -1,0 +1,3 @@
+# Instrucciones antes del recorrido del arbol abstracto sintactico
+ one := 1
+ zero := 0
